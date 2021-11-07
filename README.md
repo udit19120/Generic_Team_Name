@@ -17,6 +17,8 @@ Most of the customers want a time efficient purchase mechanism of fashion produc
 <h3>Solution Statement</h3>
 <p>
 We want to introduce a contactless feature in which the users can actually try the beauty products and clothes by using Machine Learning and Computer Vision. To attract more customers to our platform, we want to introduce various engaging games that the user can play and earn benefits like discounts, MynCash, etc.
+ 
+![](Round2/Images_ReadMe/image%20(1).jpeg)
 </p>
 
 <h2>Project Description and Features</h2>
@@ -29,7 +31,7 @@ We want to introduce a contactless feature in which the users can actually try t
 </p>
 <h4>Virtual Try-On Accessories</h4>
 <p>
- Under Virtual Try-On Accessories, the user will need to upload their image for trying-on various accessories. The user is shown a variety of accessories to try-on. Once the user selects an accessory to try-on, the user is shown their image with desired accessory virtually put on their body.  
+ Under Virtual Try-On Accessories, the user will need to upload their image for trying-on various accessories(ring & watch) The user is shown a variety of accessories to try-on. Once the user selects an accessory to try-on, the user is shown their image with desired accessory virtually put on their hand.  
 </p>
 <h4>Game</h4>
 <p>
