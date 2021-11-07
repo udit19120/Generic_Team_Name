@@ -17,6 +17,7 @@ Most of the customers want a time efficient purchase mechanism of fashion produc
 <h3>Solution Statement</h3>
 <p>
 We want to introduce a contactless feature in which the users can actually try the beauty products and clothes by using Machine Learning and Computer Vision. To attract more customers to our platform, we want to introduce various engaging games that the user can play and earn benefits like discounts, MynCash, etc.
+<img src="Round2/Images_ReadMe/image%20(5).jpeg" width="1200" height="300"> 
 </p>
 
 <h2>Project Description and Features</h2>
@@ -26,16 +27,22 @@ We want to introduce a contactless feature in which the users can actually try t
 <h4>Virtual Try-On Clothes</h4>
 <p>
  When the user opts for Virtual Try-On Clothes, (s)he will be prompted to upload their image on which they want to try-on new clothes. Then the user is shown a variety of Clothes to try-on. Once the user selects the cloth to try-on, the user is shown their image with desired clothes virtually put on their body.  
+<img src="Round2/Images_ReadMe/image%20(2).jpeg" width="1200" height="300">
+<p>
+</p>
+<img src="Round2/Images_ReadMe/image%20(3).jpeg" width="1200" height="300">
 </p>
 <h4>Virtual Try-On Accessories</h4>
 <p>
  Under Virtual Try-On Accessories, the user will need to upload their image for trying-on various accessories(ring & watch) The user is shown a variety of accessories to try-on. Once the user selects an accessory to try-on, the user is shown their image with desired accessory virtually put on their hand.  
+<img src="Round2/Images_ReadMe/image%20(4).jpeg" width="1200" height="300">
 </p>
 <h4>Game</h4>
 <p>
 Platformer Game made using pygame is embedded into the website.
 Users could enjoy playing the challenging game on the platform and collect MynCash(shown as Myntra logo) while playing the game. There are multiple levels in the game. The difficulty of a level is increased by bringing more enemies and lava into the game frame. Users could enjoy playing the challenging game on the platform and collect MynCash(shown as Myntra logo) while playing the game.
 </p>
+<img src="Round2/Images_ReadMe/image%20(1).jpeg" width="600" height="300">
 <h3>Technologies Used</h3>
 <p>
 The technologies used include HTML, CSS and Javascript. The application is built in ReactJS. There is use of NodeJS and ExpressJS at the server side. Virtual try-on was implemented using tensorflow, torch, torchvision and CV2 libraries of python.The game is created using pygame library of python. 
