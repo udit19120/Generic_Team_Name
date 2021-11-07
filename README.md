@@ -1,9 +1,6 @@
 <h1> Generic_Team_Name</h1>
  This repository contains the submission for Myntra Hacker Ramp 2021 by team: Generic_Team_Name
 
-<!-- ![image](https://user-images.githubusercontent.com/55682564/140659870-901ad3b0-a393-4dae-b78c-73f818168e04.png) -->
-
-
 <h2> Myntra HackerRamp 2021 <br>Themes: Beautify and Gamify</h2>
 <h3>Team Members</h3>
 <p>
@@ -23,7 +20,8 @@ We want to introduce a contactless feature in which the users can actually try t
 </p>
 
 <h2>Project Description and Features</h2>
-![image](https://user-images.githubusercontent.com/55682564/140660870-d54fc1b8-d799-4ca0-a994-248c6bc78a22.png)
+<!-- ![image](https://user-images.githubusercontent.com/55682564/140661190-a2b3b6dd-79f6-4350-b0f4-117778eb1db8.png) -->
+
 <h3>Our project is mainly divided into 3 parts:</h4>
 <h4>Virtual Try-On Clothes</h4>
 <p>
