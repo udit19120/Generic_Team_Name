@@ -17,6 +17,8 @@ Most of the customers want a time efficient purchase mechanism of fashion produc
 <h3>Solution Statement</h3>
 <p>
 We want to introduce a contactless feature in which the users can actually try the beauty products and clothes by using Machine Learning and Computer Vision. To attract more customers to our platform, we want to introduce various engaging games that the user can play and earn benefits like discounts, MynCash, etc.
+ 
+![](Round2/Images_ReadMe/image%20(1).jpeg)
 </p>
 
 <h2>Project Description and Features</h2>
