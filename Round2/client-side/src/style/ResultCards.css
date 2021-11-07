@@ -1,0 +1,19 @@
+.result_cards__container {
+    display: flex;
+    align-items: left;
+    max-width: 2000px;
+    width: 200%;
+    height: 200%;
+    margin: 0 auto;
+  }
+  
+  .result_cards__wrapper {
+    position: relative;
+    width: 200%;
+    height: 200%;
+    
+  }
+  
+  .result_cards__items {
+    margin-bottom: 24px;
+  }
