@@ -28,6 +28,8 @@ We want to introduce a contactless feature in which the users can actually try t
 <p>
  When the user opts for Virtual Try-On Clothes, (s)he will be prompted to upload their image on which they want to try-on new clothes. Then the user is shown a variety of Clothes to try-on. Once the user selects the cloth to try-on, the user is shown their image with desired clothes virtually put on their body.  
 <img src="Round2/Images_ReadMe/image%20(2).jpeg" width="1200" height="300">
+<p>
+</p>
 <img src="Round2/Images_ReadMe/image%20(3).jpeg" width="1200" height="300">
 </p>
 <h4>Virtual Try-On Accessories</h4>
