@@ -41,6 +41,7 @@ We want to introduce a contactless feature in which the users can actually try t
 <p>
 Platformer Game made using pygame is embedded into the website.
 Users could enjoy playing the challenging game on the platform and collect MynCash(shown as Myntra logo) while playing the game. There are multiple levels in the game. The difficulty of a level is increased by bringing more enemies and lava into the game frame. Users could enjoy playing the challenging game on the platform and collect MynCash(shown as Myntra logo) while playing the game.
+<img src="Round2/Images_ReadMe/image%20(1).jpeg" width="600" height="300">
 </p>
 <h3>Technologies Used</h3>
 <p>
