@@ -23,6 +23,7 @@ We want to introduce a contactless feature in which the users can actually try t
 </p>
 
 <h2>Project Description and Features</h2>
+![image](https://user-images.githubusercontent.com/55682564/140660870-d54fc1b8-d799-4ca0-a994-248c6bc78a22.png)
 <h3>Our project is mainly divided into 3 parts:</h4>
 <h4>Virtual Try-On Clothes</h4>
 <p>
