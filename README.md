@@ -29,7 +29,7 @@ We want to introduce a contactless feature in which the users can actually try t
 </p>
 <h4>Virtual Try-On Accessories</h4>
 <p>
- Under Virtual Try-On Accessories, the user will need to upload their image for trying-on various accessories. The user is shown a variety of accessories to try-on. Once the user selects an accessory to try-on, the user is shown their image with desired accessory virtually put on their body.  
+ Under Virtual Try-On Accessories, the user will need to upload their image for trying-on various accessories(ring & watch) The user is shown a variety of accessories to try-on. Once the user selects an accessory to try-on, the user is shown their image with desired accessory virtually put on their hand.  
 </p>
 <h4>Game</h4>
 <p>
